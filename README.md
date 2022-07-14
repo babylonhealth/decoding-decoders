@@ -1,3 +1,6 @@
+> **Note**
+> This repository is no longer actively maintained by Babylon Health. For further assistance, reach out to the paper authors.
+
 # Decoding Decoders: Finding Optimal Representation Spaces for Unsupervised Similarity Tasks
 
 TensorFlow implementation of the models described in the
